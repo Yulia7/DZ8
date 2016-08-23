@@ -1,0 +1,133 @@
+.box {
+height:518px;
+width:100%;
+}
+
+header {
+    height: 280px;
+}
+.main-nav {
+      display: none; 
+    }
+    .logo {
+    
+    padding-top: 212px;
+    padding-left: 72px;
+}
+.middle-row {
+    padding-top: 57px;
+    padding-left: 0px;
+}
+.middle-row-wrapper {
+    background-color: transparent;
+}
+
+.middle-row_title {
+    padding-top: 94px;
+    padding-left: 53px;
+    font-size: 36px;
+   
+}
+.middle-row_subtitle {
+    font-size: 18px;
+    overflow: hidden;
+    padding-left: 52px;
+    padding-top: 0px;
+}
+.middle-row_text {
+    display:none;
+}
+.about {
+    padding-left: 0px;
+    height: 536px;
+    width: 100%;
+}
+.about-item {
+    margin-left: 0px;
+}
+
+.about-item__text {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    height: 73px;
+    overflow: hidden;
+}
+ .main {
+    margin-left: 0px;
+    height: 790px;
+ }
+ .main-container {
+  margin-left:4px;
+  padding-top: 64px;
+  } 
+.main-container-item {
+	height: 262px; 
+}
+
+.main-container-item__text {
+    overflow: hidden;
+    height: 168px;
+    width: 170px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.1px;
+    font-weight: 300;
+    max-height: 168px;
+    padding: 0;
+    margin: 0;
+    /* font-size: 16px; */
+    margin-top: 8px;
+    /* margin-left: -10px; */
+    /* overflow: hidden; */
+}
+.main-container .dots-nav {
+      right: 40%; 
+    }
+    .blog-updates-block {
+     padding: 0px;
+     padding-top: 356px;
+    width: 320px;
+    margin-top: 0px;
+    margin-left: 0;
+    float: left;
+}
+.blog-updates-block-list-item {
+    margin-bottom: 18px;
+    width: 320px;
+}
+    .blog-updates-block-list-item__title, .blog-updates-block-list-item__details {
+    	overflow: hidden;
+        text-overflow: ellipsis; 
+    }
+     .clients-holder {
+    height: 423px;
+    padding: 0px;
+    text-align: center;
+  }
+    .clients-holder__image {
+      margin-right: 38px;
+      margin-top: 52px; 
+    } 
+    .article {
+    	 display: none; 
+    }
+    .footer {
+     height: 200px;
+    }
+    .footer .main-nav {
+      display: none; 
+    }
+    .footer-copyright {
+    /* text-align: center;*/
+
+    padding-top: 69px;
+    padding-right: 156px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    line-height: 37px;
+    font-weight: 300;
+    float: right;
+    color: white;
+    }
